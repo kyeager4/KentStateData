@@ -3,7 +3,9 @@ This dataset contains the starting and ending dates of the Spring, Summer, Fall,
 
 ## Codebook
 `Semester` - (String) The name of the semester ("Fall", "Spring", "Summer", "Winter").
+
 `StartDate` - (Date, MM/DD/YYYY) The date of the first day of the semester. Always falls on a Monday.
+
 `EndDate` - (Date, MM/DD/YYYY) The day of the last day of the semester. Always falls on a Sunday.
 
 ## Data Source

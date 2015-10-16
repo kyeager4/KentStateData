@@ -3,9 +3,13 @@ This dataset contains the addresses and latitudes/longitudes of the eight Kent S
 
 ## Codebook
 `Campus` - (String) The name of the campus.
+
 `Address` - (String) The postal address of the campus.
+
 `Latitude` - (Numeric) The latitude corresponding to the postal address.
+
 `Longitude` - (Numeric) The longitude corresponding to the postal address.
+
 `LatLongSourceURL` - (String) The latlong.net URL for the given latitude/longitude.
 
 ## Data Source
