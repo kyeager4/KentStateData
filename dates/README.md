@@ -16,6 +16,10 @@ The raw data sources came from information in PDFs on the Kent State University 
 
 In July 2014, I transcribed the starting and ending dates for the academic years 2014 through 2018. In October 2015, I added dates for the academic year 2012-2013.
 
+See also:
+
+-[University Registrar - Registrar Dates by Term](http://www.kent.edu/registrar/registrar-dates-term)
+
 ### Transcription Notes
 I have entered the data in such a way that the starting date of a semester will always be the Monday of the first week of classes, and the ending date will always be the Sunday at the end of finals week. In the original Kent State files, some of the given semester start dates are on Tuesday; this happens when Martin Luther King Day falls on the Monday of the first week of the semester.
 
