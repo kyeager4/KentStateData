@@ -10,6 +10,7 @@ This dataset contains the starting and ending dates of the Spring, Summer, Fall,
 
 ## Data Source
 The raw data sources came from information in PDFs on the Kent State University website.
+- [University Academic Calendars 2018-2019 to 2022-2023](http://provostdata.kent.edu/roadmapweb/03/academic-calendar-AY2018-AY2022.pdf)
 - [University Academic Calendar 2014-2018](https://www.kent.edu/sites/default/files/academic-calendar-2014-2018_0.pdf)
 - [University Academic Calendar 2009-2013](http://provostdata.kent.edu/roadmapweb/03/academic-calendar-2009-2013.pdf)
 - [Kent State Calendars](http://www.kent.edu/calendars)
